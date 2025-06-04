@@ -1,2 +1,2 @@
 # repositorio-para-aprender-pull
-sirve para aprendrer a utilizar pull
+repositorio para practicar git pull
